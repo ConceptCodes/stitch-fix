@@ -1,9 +1,9 @@
 # Stitch Fix
 
-The other day i ran into someone who built software to take your measurements for custom suits. You would
-take a picture of yourself and the software would take your measurements. I thought that was pretty cool.
-So naturally, I wanted to build something similar. I wanted to build something that would take your
-measurements but it would then generate sewing patterns for you. I thought that would be pretty cool.
+The other day I ran into someone who built software to take your measurements for custom suits. You would
+take a picture of yourself and the software would determine the real world lengths of the various parts of
+your body. I thought that was pretty cool, So naturally, I wanted to build something similar. 
+I wanted to build something that would take your measurements but it would then generate custom sewing patterns for you.
 
 > [!WARNING]  
 > This is a work in progress. I am still working on this project. I will update this page as I make progress.
