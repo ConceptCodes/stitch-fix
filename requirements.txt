@@ -1,0 +1,9 @@
+mediapipe
+halo
+pydantic
+numpy
+opencv-python
+argparse
+tensorflow-macos
+jax 
+jaxlib
