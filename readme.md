@@ -2,7 +2,7 @@
 
 The other day I ran into someone who built software to take your measurements for custom suits. You would
 take a picture of yourself and the software would determine the real world lengths of the various parts of
-your body. I thought that was pretty cool, So naturally, I wanted to build something similar. 
+your body. I thought that was pretty cool. So naturally, I wanted to build something similar. 
 I wanted to build something that would take your measurements but it would then generate custom sewing patterns for you.
 
 > [!WARNING]  
